@@ -127,6 +127,7 @@ Codex skills are modular instruction bundles that tell Codex how to execute a ta
 
 - [email-draft-polish/](./email-draft-polish/) - Draft, rewrite, or condense emails for the right tone and audience.
 - [changelog-generator/](./changelog-generator/) - Create clear changelogs from commits or summaries.
+- [clear-human-writing](https://github.com/tangyixiao/clear-human-writing) - Edit Chinese and English prose to remove formulaic AI phrasing, unnecessary defensive framing, and verbosity while preserving facts, evidence strength, technical conditions, and the author's voice.
 - [content-research-writer/](./content-research-writer/) - Research and draft content with sourced citations.
 - [diasporic-intelligence](https://github.com/MinistaJazz/diasporic-intelligence) - External repo: source-credit skill for consent-governed lineage AI with attribution, provenance, revocation, and non-impersonation boundaries.
 - [novel-writing](https://github.com/wgwtest/novel-writing) - External repo: public Codex skill for fiction planning, chapter drafting, scene continuation, and revision.
